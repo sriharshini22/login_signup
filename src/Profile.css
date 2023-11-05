@@ -1,0 +1,20 @@
+.profile {
+  width: 90%;
+  max-width: 400px;
+  border: 1px solid #dcdcdc;
+  padding: 20px;
+  text-align: center;
+  background-color: #dcdcdc;
+  border-radius: 10px;
+  font-family: "JetBrains Mono", monospace;
+}
+
+.profile p {
+  text-align: left;
+}
+
+.profile > span {
+  color: #dc143c;
+  margin-top: 30px;
+  cursor: pointer;
+}
